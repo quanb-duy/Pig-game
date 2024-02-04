@@ -9,7 +9,7 @@ const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 
 // Starting conditions
-score0El.textContent = 0;
+score0El.textContent = 50;
 score1El.textContent = 0;
 diceEl.classList.add('hidden');
 
